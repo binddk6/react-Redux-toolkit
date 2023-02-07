@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+To preview this app click [https://react-redux-toolkit-kohl.vercel.app/](https://react-redux-toolkit-kohl.vercel.app/)
+
 This project was bootstrapped with Vite, using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template for ruotign purpose we are using [React-router-dom](https://reactrouter.com/en/main) styling we have done using [tailwindcss](https://tailwindcss.com/).
 
 ## about Project
